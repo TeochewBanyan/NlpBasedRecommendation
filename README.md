@@ -2,6 +2,10 @@
 
 ### Recommendation system based on review analysis
 
+This is a recommendation system based on review analysis. We use a BERT model to predict ratings from consumers given their comments. Then recommendations are made according to the average rating  of a product.
+
+## Nlp part
+
 #### Env:
 
 + colab
